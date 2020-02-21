@@ -1,0 +1,15 @@
+{
+  "code": "staxel.species.Elephant",
+  "icon": "",
+  "male": {
+    "icon": "",
+    "bodyType": "staxel.bodyType.Elephant",
+    "model": ""
+  },
+  "female": {
+    "icon": "",
+    "bodyType": "staxel.bodyType.Elephant",
+    "model": ""
+  },
+  "playable": false
+}

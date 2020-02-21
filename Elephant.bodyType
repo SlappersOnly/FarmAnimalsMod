@@ -1,0 +1,33 @@
+{
+  "code": "staxel.bodyType.Elephant",
+  "shoulderHeight": 1.125,
+  "bodyHeight": 2.25,
+  "bodyRadius": 3.1,
+  "riserRadius": 0.95,
+  "riserHeight": 1.0,
+  "tposeEmote": "tpose",
+  "boneAnimations": "staxel.boneAnimation.Cow",
+  "centerBias": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "topHeadOffset": {
+    "x": 0.0,
+    "y": 0.7,
+    "z": -1.0
+  },
+  "layers": [
+    "Torso",
+    "Head",
+    "Tail",
+    "UpperFrontLeg_Right",
+    "LowerFrontLeg_Right",
+    "UpperFrontLeg_Left",
+    "LowerFrontLeg_Left",
+    "UpperBackLeg_Right",
+    "LowerBackLeg_Right",
+    "UpperBackLeg_Left",
+    "LowerBackLeg_Left"
+  ]
+}
