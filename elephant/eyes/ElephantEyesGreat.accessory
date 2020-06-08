@@ -1,0 +1,11 @@
+{
+  "availableInChargen": false,
+  "bodyType": [
+    "mods.mb.MoreFarmAnimals.bodyType.Elephant"
+  ],
+  "code": "mods.mb.MoreFarmAnimals.eyes.Elephant.great",
+  "kind": "Eyes",
+  "model": "mods/MoreFarmAnimals/elephant/eyes/ElephantEyesGreat.qb",
+  "palettes": [],
+  "searchable": false
+}

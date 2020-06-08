@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "elephantSplat",
+    "poop",
+    "harvested"
+  ],
+  "code": "mods.mb.MoreFarmAnimals.item.ElephantSplat",
+  "icon": "mods/MoreFarmAnimals/elephant/item/ElephantSplat.qb",
+  "inHand": "mods/MoreFarmAnimals/elephant/item/ElephantSplat.qb",
+  "inHandOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "inHandRotation": {
+    "x": 0.0,
+    "y": 1.54,
+    "z": -1.54
+  },
+  "isDockable": true,
+  "kind": "staxel.item.CraftItem",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "buyable": true,
+    "sellPrice": 6,
+    "value": 10
+  },
+  "searchable": true,
+  "throwable": {
+    "throwStrength": 8.0
+  },
+  "usageOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}
